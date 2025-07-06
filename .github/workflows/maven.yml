@@ -5,9 +5,9 @@ name: Java CI with Mave
 
 on:
   push:
-    branches: [ main ]
+    branches: [ V2f ]
   pull_request:
-    branches: [ main ]
+    branches: [ V2f ]
 
 jobs:
   build:
